@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeajunseok/nodejs_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeajunseok/nodejs_server/issues"
+  },
+  "homepage": "https://github.com/yeajunseok/nodejs_server#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "sanitize-html": "^1.20.0"
+  }
+}
